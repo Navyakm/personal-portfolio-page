@@ -1,1 +1,43 @@
-/* Add your CSS code here */
+* {
+    font-family: serif;
+    max-width: 700px;
+    margin: auto;
+  }
+  body {
+    min-width: 500px;
+    background-color: #e0eeee;
+  }
+  h1 {
+    font-family: serif;
+    text-align: left 10px;
+  }
+  h3 {
+    font-style: italic;
+    font-family: serif;
+  }
+  .p1 {
+    font-family: serif;
+    text-align: justify;
+  }
+  .p2 {
+    font-family: serif;
+    text-align: justify;
+  }
+  .u1 {
+    font-family: serif;
+  }
+  .p3 {
+    font-family: serif;
+    text-align: justify;
+  }
+  .portfolio {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
